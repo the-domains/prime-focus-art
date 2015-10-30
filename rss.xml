@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Prime Focus Art]]></title>
+        <description><![CDATA[Prime Focus Art]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Oct 2015 17:03:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Prime Focus Art is a group of photographic hobbyists dedicated to taking amazing photographic art, building a passionate community, improving our artistic skills, and above all else, enjoying our hobby. Our artists are all hobbyists, and some of their art is released in limited quantity prints, and available for purchase through our Prime Focus Art community. We hope you enjoy your stay, and encourage you to get involved in our community via our blog, Facebook page, and via the Chat which you can access on the right of the page.  </p>]]></description>
+            <link>undefined4ffb1f14-641a-4b3e-8d3b-296841f28a31/index.html</link>
+            <guid isPermaLink="false">4ffb1f14-641a-4b3e-8d3b-296841f28a31</guid>
+            <pubDate>Fri, 30 Oct 2015 17:03:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
