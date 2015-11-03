@@ -19,9 +19,9 @@ color:
   brandColors:
     - '#f0f0f0'
     - '#000000'
-    - '#c1c1c1'
-    - '#292929'
-    - '#717172'
+    - '#3c3c3c'
+    - '#757575'
+    - '#bbbbbb'
   brandStrength: 0.5
   lightness: 0.625
   saturation: 0.375
